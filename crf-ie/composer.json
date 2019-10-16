@@ -1,0 +1,5 @@
+{
+    "require": {
+        "sastrawi/tokenizer": "^0.4.0"
+    }
+}
